@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.spyproject
+.vscode
+*.bsp
+*.dat
+*.data
+*.preds
